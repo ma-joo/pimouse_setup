@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by ma-joo
 
 exec 2> /tmp/setup.log
 
